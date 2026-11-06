@@ -9,6 +9,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhav3792/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhav3792/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhav3792/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhav3792/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Greedy
 |  |
 | ------- |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+## Hash Table
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
