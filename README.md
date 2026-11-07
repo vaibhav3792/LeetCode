@@ -8,6 +8,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhav3792/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhav3792/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1882-process-tasks-using-servers](https://github.com/vaibhav3792/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -52,6 +53,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/vaibhav3792/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhav3792/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
