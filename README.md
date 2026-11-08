@@ -8,6 +8,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhav3792/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhav3792/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/vaibhav3792/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -18,18 +19,22 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhav3792/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -91,4 +96,8 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
