@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/vaibhav3792/LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
