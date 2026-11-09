@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/vaibhav3792/LeetCode/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/vaibhav3792/LeetCode/tree/master/1683-invalid-tweets) |
 ## Simulation
 |  |
 | ------- |
