@@ -14,6 +14,7 @@
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vaibhav3792/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/vaibhav3792/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhav3792/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/vaibhav3792/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/vaibhav3792/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhav3792/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/vaibhav3792/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vaibhav3792/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
