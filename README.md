@@ -121,6 +121,7 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/vaibhav3792/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1148-article-views-i](https://github.com/vaibhav3792/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/vaibhav3792/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vaibhav3792/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
