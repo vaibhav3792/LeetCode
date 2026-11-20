@@ -15,6 +15,7 @@
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vaibhav3792/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vaibhav3792/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vaibhav3792/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vaibhav3792/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/vaibhav3792/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -50,6 +51,7 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhav3792/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vaibhav3792/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vaibhav3792/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhav3792/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
@@ -92,6 +94,7 @@
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vaibhav3792/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vaibhav3792/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
