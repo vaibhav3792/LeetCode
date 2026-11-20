@@ -1,7 +1,7 @@
 class Solution {
 public:
     int n;
-    vector<vector<int>> memo;
+    vector<vector<int>> dp;
 
     int findMethod(vector<int>& nums, int start, int target){
         int j = lower_bound(begin(nums)+start,end(nums),target) - begin(nums);
@@ -9,34 +9,35 @@ public:
         return -1;
     }
 
-    int solve(int i, int inc, vector<int>& nums){
-        if(memo[i][inc]!=-1){
-            return memo[i][inc];
-        }
-
-        int curVal = nums[i] + inc;
-        int len = 1;
-
-        int j = findMethod(nums,i+1,curVal);
-        if(j!= -1){
-            len = max(len,1 + solve(j,1,nums));
-        }
-
-        j = findMethod(nums,i+1,curVal+1);
-        if(j!= -1){
-            len = max(len,1 + solve(j,0,nums));
-        }
-        return memo[i][inc] = len;
-    }
+    
     int maxSelectedElements(vector<int>& nums) {
         n = nums.size();
         sort(nums.begin(),nums.end());
-        memo.assign(n+1,vector<int>(2,-1));
+        dp.assign(n+1,vector<int>(2,0));
 
         int result = 1;
-        for(int i = 0; i <n; i++){
-            result = max({result,solve(i,0,nums),solve(i,1,nums)});
+
+        for(int i = n-1; i>=0 ; i--){
+            for(int inc = 0; inc<2; inc++){
+                int curVal = nums[i] + inc;
+                int len = 1;
+
+                int j = findMethod(nums,i+1,curVal);
+                if(j!=-1){
+                    len =  max(len,1+dp[j][1]);
+                }
+
+                j = findMethod(nums,i+1,curVal+1);
+                if(j!=-1){
+                    len =  max(len,1+dp[j][0]);
+                }
+
+                dp[i][inc] = len;
+                result = max(result,dp[i][inc]);
+            }
         }
+
+
         return result;
     }
 };
