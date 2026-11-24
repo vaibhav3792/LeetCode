@@ -21,6 +21,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav3792/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vaibhav3792/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/vaibhav3792/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhav3792/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhav3792/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhav3792/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -91,6 +92,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhav3792/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vaibhav3792/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhav3792/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhav3792/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhav3792/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vaibhav3792/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/vaibhav3792/LeetCode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhav3792/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/vaibhav3792/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vaibhav3792/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhav3792/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -172,4 +176,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/vaibhav3792/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vaibhav3792/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
