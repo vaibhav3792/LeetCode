@@ -154,6 +154,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vaibhav3792/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/vaibhav3792/LeetCode/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/vaibhav3792/LeetCode/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vaibhav3792/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Simulation
 |  |
 | ------- |
