@@ -26,6 +26,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhav3792/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhav3792/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vaibhav3792/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vaibhav3792/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhav3792/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhav3792/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vaibhav3792/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vaibhav3792/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/vaibhav3792/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vaibhav3792/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vaibhav3792/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
